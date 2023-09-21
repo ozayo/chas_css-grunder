@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+p {
+  color: green;
+}
+#myID {
+  color: purple;
+}
+.myClass {
+  color: rgb(153, 70, 153);
+}
