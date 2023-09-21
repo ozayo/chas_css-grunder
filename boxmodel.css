@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: #fff;
+  padding: 10px;
+  border-width: 20px;
+  border-color: black;
+  border-style: solid;
+  margin: 20px;
+}
+.container {
+  background-color: red;
+  display: inline-block;
+}

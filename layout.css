@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+.header {
+  background-color: black;
+  padding: 10px 0px;
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+}
+.menu {
+  height: 200px;
+  background-color: blue;
+  width: 30%;
+  float: left;
+  padding: 10px;
+}
+.content {
+  height: 200px;
+  background-color: red;
+  width: 70%;
+  float: left;
+  padding: 20px;
+}
+.footer {
+  clear: both;
+  background-color: aqua;
+}
